@@ -14,3 +14,12 @@ tags:[test, attempt 1]
 
 test image:
 ![[Pasted image 20250122192016.png]]
+code block: 
+
+```python
+print("Hello, World!")
+
+for i in range(10):
+	print(i)
+```
+
