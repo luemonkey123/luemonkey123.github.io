@@ -1,7 +1,7 @@
 
 ---
 title: Hello, World!
-date: 2025-1-22 19:00:00 -5:00
+date: 2025-1-22 19:00:00 -0500
 categories:[test, fun]
 tags:[test, attempt 1]
 ---
