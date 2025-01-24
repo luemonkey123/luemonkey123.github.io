@@ -13,7 +13,7 @@ tags:[test, attempt 1]
 - not much else to say
 
 test image:
-![[Pasted image 20250122192016.png]]
+!![Image Description](/images/Pasted%20image%2020250122192016.png)
 code block: 
 
 ```python
