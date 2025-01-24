@@ -27,3 +27,5 @@ _sass/vendors
 assets/js/dist
 
 master.sh
+count.txt
+.DS_Store
