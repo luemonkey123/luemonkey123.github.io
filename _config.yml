@@ -46,7 +46,7 @@ social:
 # Site Verification Settings
 webmaster_verifications:
   google: # fill in your Google verification code
-  bing: # fill in your Bing verification code
+  bing: FD32A5FCF9C2DE52108D44C4A71C6541" # fill in your Bing verification code
   alexa: # fill in your Alexa verification code
   yandex: # fill in your Yandex verification code
   baidu: # fill in your Baidu verification code
@@ -143,7 +143,7 @@ pwa:
 paginate: 10
 
 # The base URL of your site
-baseurl: ""
+baseurl: "https://docs.evanshen.xyz"
 
 # ------------ The following options are not recommended to be modified ------------------
 
