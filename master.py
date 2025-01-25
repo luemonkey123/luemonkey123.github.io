@@ -2,7 +2,6 @@
 
 ## A ton of imports
 from datetime import datetime       ## For time in front of file names
-from icecream import ic             ## Debug stuff
 import os                           ## Mostly file operations
 import shutil                       ## For file transfers
 import filecmp                      ## For comparing files to see updates
