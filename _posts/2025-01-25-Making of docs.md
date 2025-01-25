@@ -20,7 +20,7 @@ Before I start, I want to give credit where it's due:
 
 ## Inspiration
 
-I have wanted to start a blog for a while now, but it's kind of taken a backseat in my mind. It came back up when I bought a domain name, [evanshen.xyz](evanshen.xyz). I thought, "Wouldn't it be cool if I had a blog?" Then later I learned about [Github Pages](https://pages.github.com/), free hosting, and I also thought, "What can I do with this?" Then I watched a little bit of the aforementioned video from [NetworkChuck](https://www.youtube.com/@NetworkChuck) and then I started research.
+I have wanted to start a blog for a while now, but it's kind of taken a backseat in my mind. It came back up when I bought a domain name. I thought, "Wouldn't it be cool if I had a blog?" Then later I learned about [Github Pages](https://pages.github.com/), free hosting, and I also thought, "What can I do with this?" Then I watched a little bit of the aforementioned video from [NetworkChuck](https://www.youtube.com/@NetworkChuck) and then I started research.
 
 ## Research
 
