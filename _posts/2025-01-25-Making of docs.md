@@ -35,3 +35,9 @@ During this period, the site took a backseat as I worked on my server and my Jel
 A few week ago I pretty much finished up on the music server and decieded to come back to this project. After trying out Hugo with NetworkChuck's video, where I had a brief period of success, I gave up on it. Hugo was just less documented, and, for me, harder to work with. I came back to Jekyll and tried again. I got the config and favicon to work (one of my pain points) and finally got the posts to work. After a struggle with Cloudflare and Github Pages, I got a custom domain working. This part was quite a bit of a struggle with many DNS failures, and confusion too. 
 
 Sorry if this was a bit of a bad write up, I don't remember many of the details since this is obviously after the making of. I will write as I go along next time. 
+
+## Pictures:
+
+![Image Description](/assets/img/pimg/Screenshot%202025-01-25%20at%202.29.47%20PM.png)
+
+![Image Description](/assets/img/pimg/Screenshot%202025-01-25%20at%202.30.08%20PM.png)
