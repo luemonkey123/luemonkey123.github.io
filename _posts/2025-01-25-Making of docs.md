@@ -40,4 +40,4 @@ Sorry if this was a bit of a bad write up, I don't remember many of the details 
 
 ![Image Description](/assets/img/pimg/Screenshot%202025-01-25%20at%202.29.47%20PM.png)
 
-![Image Description](/assets/img/pimg/Screenshot%202025-01-25%20at%202.30.08%20PM.png)
+![Image Description](/assets/img/pimg/Screenshot%202025-01-25%20at%202.30.08%20PM.png)![Image Description](/assets/img/pimg/Screenshot%202025-01-25%20at%202.34.23%20PM.png)
