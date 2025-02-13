@@ -14,6 +14,7 @@ postdirV = "/Users/shunquanshen/Documents/Obsidian/jekyll/docs-posts/"
 picsdirV = "/Users/shunquanshen/Documents/Obsidian/jekyll/"
 postdirJ = "/Users/shunquanshen/Projects/blogs/luemonkey123.github.io/_posts/"
 assetsJ = "/Users/shunquanshen/Projects/blogs/luemonkey123.github.io/assets/img/pimg/"
+rawPosts = "/Users/shunquanshen/Documents/Obsidian/jekyll/raw-posts/"
 
 date = datetime.today().strftime('%Y-%m-%d') ## Get date in correct format
 

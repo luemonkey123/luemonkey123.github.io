@@ -76,4 +76,4 @@ I think that I with use TrueNAS, b/c it is free and proxmox requires network sha
 
 # Conclusion
 
-That's the plan, anyways. I will go to Micro Center on Sat, where I might adjust the plan some to accommodate prices, msrp, etc. 
+That's the plan, anyways. I will go to Micro Center on Sat, where I might adjust the plan some to accommodate prices, msrp, etc. This is the pcpartpicker [list](https://pcpartpicker.com/user/luemonkey123/saved/#view=TZBx23).
