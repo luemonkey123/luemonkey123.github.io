@@ -1,3 +1,16 @@
+---
+title: Building a Server Part 2 - More Changes to Plan
+date: 2025-03-01 13:00:00 -0500
+categories:
+  - project
+  - homelab
+tags:
+  - build
+  - NAS
+  - project
+---
+
+
 I made a few decisions after going to Micro Center that changed the plan quite a bit. 
 
 # Case
