@@ -1,6 +1,6 @@
 ---
 title: Building a Server Part 1 - Micro Center
-date: 2025-01-22 19:00:00 -0500
+date: 2025-03-01 12:00:00 -0500
 categories:
   - homelab
   - project
