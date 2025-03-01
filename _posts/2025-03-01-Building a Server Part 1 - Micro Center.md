@@ -10,6 +10,7 @@ tags:
   - server
   - build
 ---
+
 # Micro Center
 
 On Saturday, we went to micro center to browse and maybe buy things.
