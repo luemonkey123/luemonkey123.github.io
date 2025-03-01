@@ -26,3 +26,4 @@ In a previous article (or maybe one in the future, idk), I describe how we picke
 - For $60, not half bad (no complaints)
 - screen resolution is not the best, but kinda to be expected at this price point
 - screen is pretty big
+- auto connects pretty well

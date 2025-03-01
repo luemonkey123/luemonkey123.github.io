@@ -16,7 +16,7 @@ On Saturday, we went to micro center to browse and maybe buy things.
 
 ## CPU
 
-The first thing we went to see and that we knew that we were gonna buy was the cpu. Online I had already seen the Intel i5 14400, which was on sale by about $20. However, when we got to the cpu cabinet, we also saw the i5 14600k, which was about the MSRP of 14400 or $200. This seemed to still fit in the budget and was a significant performance boost, we thought "Why not?" I was a little concerned about the power consumption, but since my dad pays the power bill anyway, since he agreed, I'll take it.
+The first thing we went to see and that we knew that we were gonna buy was the cpu. Online I had already seen the Intel i5 14400, which was on sale by about $20. However, when we got to the cpu cabinet, we also saw the i5 14600k, which was about the MSRP of 14400 or $200. This seemed to still fit in the budget and was a significant performance boost, we thought "Why not?" I was a little concerned about the power consumption, but since my dad pays the power bill anyway, and he agreed, I'll take it.
 
 ## DDR 5
 
